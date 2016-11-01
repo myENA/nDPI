@@ -79,7 +79,7 @@ void ndpi_free_flow_info_half(struct ndpi_flow_info *flow) {
 
 /* ***************************************************** */
 
-static const u_int8_t nDPI_traceLevel = 0;
+//se static const u_int8_t nDPI_traceLevel = 0;
 
 /* ***************************************************** */
 

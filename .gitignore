@@ -35,3 +35,15 @@ stamp-h1
 /m4/ltsugar.m4
 /m4/ltversion.m4
 /m4/lt~obsolete.m4
+
+.project
+autom4te.cache/
+compile
+example/.deps/
+example/ndpiReader-nomain.c
+src/lib/.deps/
+src/lib/protocols/.deps/
+src/lib/third_party/src/.deps/
+test-driver
+tests/Makefile
+
