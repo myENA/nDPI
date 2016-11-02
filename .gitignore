@@ -40,7 +40,6 @@ stamp-h1
 autom4te.cache/
 compile
 example/.deps/
-example/ndpiReader-nomain.c
 src/lib/.deps/
 src/lib/protocols/.deps/
 src/lib/third_party/src/.deps/
