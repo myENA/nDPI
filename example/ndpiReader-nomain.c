@@ -42,7 +42,7 @@
 #include <pthread.h>
 #include <sys/socket.h>
 #include <assert.h>
-#include "../config.h"
+// #include "../config.h"
 #include "ndpi_api.h"
 
 #ifdef HAVE_JSON_C
